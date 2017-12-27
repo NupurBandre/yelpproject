@@ -6,7 +6,9 @@ JSON_to_CSV - To convert JSON files to CSV files specific to this project (Conce
 // Please note that you will have to enter the file path and the number of columns i.e. key value pairs exists in one dictionary of JSON.
 
 // For Example review.json file have 9 key value pairs
+
 So values to enter are
+
 Enter the filename to processes   ===>  /$PATH$/review
 
 Please enter the column numbers  ==>  9
